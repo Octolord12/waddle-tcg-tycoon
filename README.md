@@ -3,6 +3,7 @@ Waddle TCG Tycoon 🐧🃏🏭
 Welcome to Waddle TCG Tycoon! An economy-driven Slack simulation game powered by the Bolt framework. Step into the flippers of an enterprising manager running a Trading Card Game shop. From cracking card packs and submitting raw assets to the Grading Lab, to running tournament brackets and out-bidding rivals across a live, volatile global marketplace.
 
 ---
+Disclaimer: A lot of this code was done by AI. I do not have a huge CS background, so I designed the initial features and had AI help me to scale and modify them. 
 
 Core Gameplay & Features
 
